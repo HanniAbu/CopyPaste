@@ -222,15 +222,19 @@ button:disabled {
   z-index: 300;
   width: 80%;
   /*width: 80vw;*/
-  max-width: 350px;
   height: calc(200px + 23%);
   height: calc(200px + 23vh);
   bottom: 0;
-  /*left: 10%;*/
-  left: calc(50% - 175px);
+  left: 10%;
   margin-bottom:  calc((100% - 200px - 23%)/2);
   margin-bottom:  calc((100vh - 200px - 23vh)/2);
   background-color: #fff;
+}
+@media (min-width: 600px) {
+  .layover-screen {
+    left: calc(50% - 175px);
+    max-width: 350px;
+  }
 }
 .layover-screen h1 {
   background-color: #37D6EB;
