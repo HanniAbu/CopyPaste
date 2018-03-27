@@ -1,6 +1,6 @@
 # CopyPaste ![logo](https://raw.githubusercontent.com/HanniAbu/CopyPaste/gh-pages/assets/img/content-copy.png "CopyPaste")
-#### _A strategic and reactionary browser-based game_
-###### To play, visit: https://hanniabu.com/CopyPaste/
+#### A strategic and reactionary browser-based game
+###### To play, visit: https://hanniabu.com/copypaste/
 
 
 If you've ever had to paste something in a document repeatedly, you may have thought to yourself when the best time to re-copy what you have already pasted is, and then to start pasting that larger segment of repetition in order to finish faster.
